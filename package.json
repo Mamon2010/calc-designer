@@ -1,0 +1,20 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "autocomplete-js": "^2.7.1",
+    "autoprefixer": "^9.1.5",
+    "browser-sync": "^2.24.7"
+  }
+}
